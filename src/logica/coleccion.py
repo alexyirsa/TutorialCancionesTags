@@ -3,7 +3,6 @@ from src.modelo.cancion import Cancion
 from src.modelo.declarative_base import engine, Base, session
 from src.modelo.interprete import Interprete
 
-
 class Coleccion():
 
     def __init__(self):
